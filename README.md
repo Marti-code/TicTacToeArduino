@@ -1,7 +1,13 @@
+## CONSOLE
+<img src="https://github.com/Marti-code/ArduinoProjects/blob/master/console1.jpg"/>
+
 ## TIC TAC TOE
 Simple tic tac toe game made with arduino nano and OLED 0.96" SSD 1306
 
 <img src="https://github.com/Marti-code/ArduinoProjects/blob/master/TicTacToe1.jpg"/>
+
+## Console
+<img src="https://github.com/Marti-code/ArduinoProjects/blob/master/console2.jpg"/>
 
 ## SNAKE
 Simple snake game made with arduino nano and OLED 0.96" SSD 1306
@@ -17,3 +23,6 @@ Simple snake game made with arduino nano and OLED 0.96" SSD 1306
 
 ## Version with controller
 <img src="https://github.com/Marti-code/ArduinoProjects/blob/master/Snake2.jpg"/>
+
+## Console
+<img src="https://github.com/Marti-code/ArduinoProjects/blob/master/console3.jpg"/>
